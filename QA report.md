@@ -3,7 +3,7 @@
 </br>
 
 * ## About the Protocol
-  > [Protocol name ](linkToProtocol) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  [Protocol name ](linkToProtocol) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 </br>
 
